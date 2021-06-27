@@ -1,0 +1,2 @@
+# Classification-Data-analysis-and-visualization
+Support Vector Machines are an excellent tool for classification, novelty detection, and regression. ksvm supports the well known C-svc, nu-svc, (classification) one-class-svc (novelty) eps-svr, nu-svr (regression) formulations along with native multi-class classification formulations and the bound-constraint SVM formulations. ksvm also supports class-probabilities output and confidence intervals for regression.
